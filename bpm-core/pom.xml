@@ -125,7 +125,7 @@
         <dependency>
             <groupId>cn.hutool</groupId>
             <artifactId>hutool-core</artifactId>
-            <version>4.1.10</version>
+            <version>4.1.12</version>
         </dependency>
 
         <!-- 加密模块 -->
